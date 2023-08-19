@@ -1,0 +1,32 @@
+
+.table1{
+    font-size: 18px;
+    margin-top: 60px;
+}
+#btn{
+    margin: 30px;
+    padding: 10px;
+    height: 50px;
+    width: 180px;
+    font-size: 17px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+input{
+    width: 210px;
+    height: 30px;
+}
+#done{
+    width: 50%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.head{
+    background-color: black;
+    color: white;
+}
+#done td{
+   border: 1px solid black;
+   /* border-collapse: collapse; */
+   padding: 10px 0px;
+}
